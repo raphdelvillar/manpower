@@ -1,0 +1,1 @@
+var qmanpower = angular.module('qmanpowerApp', ['ngMaterial', 'ngSanitize']);
