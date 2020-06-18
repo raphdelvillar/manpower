@@ -44,6 +44,6 @@
     "karma-chrome-launcher": "2.1.x",
     "karma-firefox-launcher": "1.0.x",
     "karma-jasmine": "1.1.x",
-    "mversion": "1.10.x"
+    "mversion": "2.0.x"
   }
 }
